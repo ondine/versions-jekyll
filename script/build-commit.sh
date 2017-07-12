@@ -57,7 +57,7 @@ echo $last_SHA
 echo "Committing files"
 git commit -a -m "Publishing master to GitHub Pages on $publishdate with $last_SHA"
 echo "Files committed, pushing to GitHub Pages."
-git push origin gh-pages
+#git push origin gh-pages
 echo "Push complete. Check https://justwriteclick.github.io/versions-jekyll/ for updates."
 echo "Moving built files so that you can troubleshoot if needed."
 mkdir -p /tmp/archive/
