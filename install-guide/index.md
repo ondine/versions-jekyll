@@ -1,6 +1,7 @@
 ---
 title: Fake Landing for the Install Guide
 layout: single
+permalink: "/install-guide/index.html"
 ---
 
 Learn how to install the product:
