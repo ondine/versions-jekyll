@@ -1,6 +1,5 @@
 ---
 title: Fake Release Notes
-permalink: /release-notes/
 layout: single
 ---
 
